@@ -14,7 +14,7 @@
     "coingecko-api": "^1.0.10",
     "cors": "^2.8.5",
     "electrum-cash": "^2.0.6",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "sleep": "^6.3.0",
     "socket.io": "^3.1.0",
     "ts-node-dev": "^1.1.1",
